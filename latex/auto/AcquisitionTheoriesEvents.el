@@ -10,9 +10,6 @@
     "cogsci"
     "pslatex"
     "apacite")
-   (LaTeX-add-labels
-    "sample-table"
-    "sample-figure")
    (LaTeX-add-bibliographies
     "CogSci_Template")))
 

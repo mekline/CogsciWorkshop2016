@@ -57,6 +57,62 @@ Feigenbaum, E\BPBI A.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Hartshorne%
+\ \protect \BOthers {.}}{%
+Hartshorne%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {{\protect \BIP {}}}}%
+}]{%
+HOSULS}
+\APACinsertmetastar {%
+HOSULS}%
+\begin{APACrefauthors}%
+Hartshorne, J\BPBI K.%
+, O'Donnell, T\BPBI J.%
+, Sudo, Y.%
+, Uruwashi, M.%
+, Lee, M.%
+\BCBL {}\ \BBA {} Snedeker, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{{\protect \BIP {}}}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Psych verbs, the linking problem, and the acquisition of
+  language} {Psych verbs, the linking problem, and the acquisition of
+  language}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Cognition}{}{}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Hartshorne%
+, O'Donnell%
+\BCBL {}\ \BBA {} Tenenbaum%
+}{%
+Hartshorne%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2015}}%
+}]{%
+HOT2015}
+\APACinsertmetastar {%
+HOT2015}%
+\begin{APACrefauthors}%
+Hartshorne, J\BPBI K.%
+, O'Donnell, T\BPBI J.%
+\BCBL {}\ \BBA {} Tenenbaum, J\BPBI B.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2015}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {The causes and consequences explicit in verbs} {The
+  causes and consequences explicit in verbs}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Language, Cognition, \& Neuroscience}{30}{}{716-734}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Hill%
 }{%
 Hill%

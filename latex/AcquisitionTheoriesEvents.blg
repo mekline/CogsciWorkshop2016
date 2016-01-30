@@ -12,44 +12,44 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
 Database file #1: CogSci_Template.bib
 apacite.bst [2012/02/25 v6.01 APA bibliography style]
-You've used 7 entries,
+You've used 9 entries,
             6735 wiz_defined-function locations,
-            1289 strings with 11523 characters,
-and the built_in function-call counts, 12411 in all, are:
-= -- 1676
-> -- 108
-< -- 450
-+ -- 469
-- -- 14
-* -- 679
-:= -- 2041
-add.period$ -- 33
-call.type$ -- 7
-change.case$ -- 122
+            1302 strings with 11873 characters,
+and the built_in function-call counts, 16558 in all, are:
+= -- 2187
+> -- 154
+< -- 630
++ -- 692
+- -- 18
+* -- 940
+:= -- 2737
+add.period$ -- 41
+call.type$ -- 9
+change.case$ -- 155
 chr.to.int$ -- 0
-cite$ -- 14
-duplicate$ -- 302
-empty$ -- 525
-format.name$ -- 144
-if$ -- 2543
+cite$ -- 18
+duplicate$ -- 444
+empty$ -- 689
+format.name$ -- 230
+if$ -- 3331
 int.to.chr$ -- 0
-int.to.str$ -- 14
+int.to.str$ -- 18
 missing$ -- 0
-newline$ -- 174
-num.names$ -- 59
-pop$ -- 275
+newline$ -- 227
+num.names$ -- 75
+pop$ -- 340
 preamble$ -- 1
-purify$ -- 28
+purify$ -- 35
 quote$ -- 0
-skip$ -- 933
+skip$ -- 1204
 stack$ -- 0
-substring$ -- 584
-swap$ -- 176
-text.length$ -- 35
+substring$ -- 832
+swap$ -- 248
+text.length$ -- 38
 text.prefix$ -- 0
 top$ -- 1
-type$ -- 752
+type$ -- 912
 warning$ -- 0
-while$ -- 49
+while$ -- 77
 width$ -- 0
-write$ -- 203
+write$ -- 275
