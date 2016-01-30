@@ -24,6 +24,17 @@
 \usepackage{pslatex}
 \usepackage{apacite}
 
+% \usepackage[disable]{todonotes} % notes not showed
+\usepackage[]{todonotes}   % notes showed
+
+\newcommand{\mtodo}[2][]
+{\todo[caption={#2}, size=\small, #1, color = green, inline]{\renewcommand{\baselinestretch}{1}\selectfont \textbf{TG}: #2}~}
+
+\newcommand{\jtodo}[2][]
+{\todo[caption={#2}, size=\small, #1, color = orange, inline]{\renewcommand{\baselinestretch}{1}\selectfont \textbf{JH}: #2}~}
+
+\newcommand{\etodo}[2][]
+{\todo[caption={#2}, size=\small, #1, color = red, inline]{\renewcommand{\baselinestretch}{1}\selectfont \textbf{LN}: #2}~}
 
 \title{Grounding Language Acquisition in Intuitive Theories and Event Cognition}
 
@@ -51,43 +62,15 @@
 \begin{quote}
 \small
 \textbf{Keywords:}
-add your choice of indexing terms or keywords; kindly use a
-semicolon; between each term
+language; language acquisition; concepts; event cognition; cognitive
+development; intuitive theories; argument structure
 \end{quote}
 
 \section{Introduction}
 
-The entire contribution of a short summary submission (including
-figures, references, and anything else) can be no longer than two
-pages. This short summary format is to be used for workshop and
-tutorial descriptions, symposia summaries, and publication-based
-presentation extended abstracts. Unlike submitted research papers,
-short summary submissions should \emph{not} begin with a separate
-abstract. Prior to the first section of the short summary, there
-should be the header ``{\bf Keywords:}'' followed by a list of
-descriptive keywords separated by semicolons, all in 9~point font, as
-shown above.
 
-The text of the paper should be formatted in two columns with an
-overall width of 7 inches (17.8 cm) and length of 9.25 inches (23.5
-cm), with 0.25 inches between the columns. Leave two line spaces
-between the last author listed and the text of the paper. The left
-margin should be 0.75 inches and the top margin should be 1 inch.
-\textbf{The right and bottom margins will depend on whether you use
-  U.S. letter or A4 paper, so you must be sure to measure the width of
-  the printed text.} Use 10~point Times Roman with 12~point vertical
-spacing, unless otherwise specified.
 
-The title should be in 14~point, bold, and centered. The title should
-be formatted with initial caps (the first letter of content words
-capitalized and the rest lower case). Each author's name should appear
-on a separate line, 11~point bold, and centered, with the author's
-email address in parentheses. Under each author's name list the
-author's affiliation and postal address in ordinary 10~point type.
-
-Indent the first line of each paragraph by 1/8~inch (except for the
-first paragraph of a new section). Do not add extra vertical space
-between paragraphs.
+FUBAR
 
 \section{Goals and Scope}
 
@@ -104,46 +87,33 @@ vocabulary and agenda.
 
 \subsection{Workshop Organizers}
 
-\textbf{Eva Wittenberg} is FUBAR. \textbf{Melissa Kline} is
-FUBAR. \textbf{Joshua K. Hartshorne} is an assistant professor of
+\textbf{Eva Wittenberg} is \jtodo{Please blurb}. \textbf{Melissa Kline} is
+\jtodo{please blurb}. \textbf{Joshua K. Hartshorne} is an assistant professor of
 Psychology at Boston College. His work focuses on the interaction
 between conceptual and linguistic representations in both processing
 and acquisition \cite{HOSULS,HOT2015}.
 
-FUBAR
+\section{Target Audience}
+
+\noindent The target audience for this workshop overlaps significantly
+with the target audience of CogSci. The workshop's central themes
+(language acquisition and conceptual representation) have long been
+central concerns of the Society and are typically well-represented at
+its meetings. Moreover, our specific focus on event representations
+dovetails this year's overall conference theme: ``Recognizing and
+representing events: Integrating psychological, linguistic,
+computational and neural perspectives.''
+
+\noindent Moreover, the workshop approaches these themes from a
+multidisplinary perspective, as seen in the disciplinary diversity of
+the participants. Because the presentations will be geared towards an
+interdisciplinary audience, they should be approachable by a broad
+cognitive science audience.
 
 \section{Acknowledgments}
 
-FUBAR - funding??
-
-
-\section{References Instructions}
-
-Follow the APA Publication Manual for citation format, both within the
-text and in the reference list, with the following exceptions: (a) do
-not cite the page numbers of any book, including chapters in edited
-volumes; (b) use the same format for unpublished references as for
-published ones. Alphabetize references by the surnames of the authors,
-with single author entries preceding multiple author entries. Order
-references by the same authors by the year of publication, with the
-earliest first.
-
-Use a first level section heading, ``{\bf References}'', as shown
-below. Use a hanging indent style, with the first line of the
-reference flush against the left margin and subsequent lines indented
-by 1/8~inch. Below are example references for a conference paper, book
-chapter, journal article, dissertation, book, technical report, and
-edited volume, respectively.
-
-\nocite{ChalnickBillman1988a}
-\nocite{Feigenbaum1963a}
-\nocite{Hill1983a}
-\nocite{OhlssonLangley1985a}
-% \nocite{Lewis1978a}
-\nocite{Matlock2001}
-\nocite{NewellSimon1972a}
-\nocite{ShragerLangley1990a}
-
+\jtodo{Melissa and Eva: List funding. I don't think we have anyone to
+  thank. My funding right now is start-up, which isn't usually acknowledged.}
 
 \bibliographystyle{apacite}
 

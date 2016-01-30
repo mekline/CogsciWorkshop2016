@@ -9,7 +9,12 @@
     "art10"
     "cogsci"
     "pslatex"
-    "apacite")
+    "apacite"
+    "todonotes")
+   (TeX-add-symbols
+    '("etodo" ["argument"] 1)
+    '("jtodo" ["argument"] 1)
+    '("mtodo" ["argument"] 1))
    (LaTeX-add-bibliographies
     "CogSci_Template")))
 
