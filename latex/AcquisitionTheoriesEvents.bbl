@@ -1,6 +1,146 @@
 \begin{thebibliography}{}
 
 \bibitem [\protect \citeauthoryear {%
+Ambridge%
+, Pine%
+, Rowland%
+, Chang%
+\BCBL {}\ \BBA {} Bidgood%
+}{%
+Ambridge%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2013}}%
+}]{%
+Ambridge2013}
+\APACinsertmetastar {%
+Ambridge2013}%
+\begin{APACrefauthors}%
+Ambridge, B.%
+, Pine, J\BPBI M.%
+, Rowland, C\BPBI F.%
+, Chang, F.%
+\BCBL {}\ \BBA {} Bidgood, A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2013}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {The retreat from overgeneralization in child language
+  acquisition: Word learning, morphology, and verb argument structure} {The
+  retreat from overgeneralization in child language acquisition: Word learning,
+  morphology, and verb argument structure}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Wiley Interdisciplinary Reviews Cognitive
+  Science}{4}{}{47-62}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Battaglia%
+, Hamrick%
+\BCBL {}\ \BBA {} Tenenbaum%
+}{%
+Battaglia%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2013}}%
+}]{%
+Battaglia2013}
+\APACinsertmetastar {%
+Battaglia2013}%
+\begin{APACrefauthors}%
+Battaglia, P.%
+, Hamrick, J.%
+\BCBL {}\ \BBA {} Tenenbaum, J\BPBI B.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2013}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Simulation as an engine of physical scene understanding}
+  {Simulation as an engine of physical scene understanding}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Proceedings of the National Academy of
+  Sciences}{110}{}{18327-18332}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Bowerman%
+}{%
+Bowerman%
+}{%
+{\protect \APACyear {1989}}%
+}]{%
+Bowerman1989}
+\APACinsertmetastar {%
+Bowerman1989}%
+\begin{APACrefauthors}%
+Bowerman, M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1989}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Learning a semantic system: What role do cognitive
+  predispositions play?} {Learning a semantic system: What role do cognitive
+  predispositions play?}{\BBCQ}
+\newblock
+\BIn{} M\BPBI L.~Rice\ \BBA {} R\BPBI L.~Schiefelbusch\ (\BEDS), \APACrefbtitle
+  {The teachability of language.} {The teachability of language.}
+\newblock
+\APACaddressPublisher{Baltimore}{Brooks}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Clark%
+}{%
+Clark%
+}{%
+{\protect \APACyear {2004}}%
+}]{%
+Clark2004}
+\APACinsertmetastar {%
+Clark2004}%
+\begin{APACrefauthors}%
+Clark, E\BPBI V.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2004}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {How language acquisition builds on cognitive
+  development} {How language acquisition builds on cognitive
+  development}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Trends in Cognitive Sciences}{8}{}{472-478}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Gopnik%
+\ \BBA {} Wellman%
+}{%
+Gopnik%
+\ \BBA {} Wellman%
+}{%
+{\protect \APACyear {{\protect \BIP {}}}}%
+}]{%
+Gopnikinpress}
+\APACinsertmetastar {%
+Gopnikinpress}%
+\begin{APACrefauthors}%
+Gopnik, A.%
+\BCBT {}\ \BBA {} Wellman, H\BPBI M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{{\protect \BIP {}}}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Reconstructing constructivism: Causal models, Bayesian
+  learning mechanisms, and theory theory} {Reconstructing constructivism:
+  Causal models, bayesian learning mechanisms, and theory theory}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Psychological Bulletin}{}{}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Hartshorne%
 \ \protect \BOthers {.}}{%
 Hartshorne%
@@ -54,6 +194,171 @@ Hartshorne, J\BPBI K.%
   causes and consequences explicit in verbs}.{\BBCQ}
 \newblock
 \APACjournalVolNumPages{Language, Cognition, \& Neuroscience}{30}{}{716-734}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Hernik%
+\ \BBA {} Csibra%
+}{%
+Hernik%
+\ \BBA {} Csibra%
+}{%
+{\protect \APACyear {2015}}%
+}]{%
+Henrik2015}
+\APACinsertmetastar {%
+Henrik2015}%
+\begin{APACrefauthors}%
+Hernik, M.%
+\BCBT {}\ \BBA {} Csibra, G.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2015}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Infants learn enduring functions of novel tools from
+  action demonstrations} {Infants learn enduring functions of novel tools from
+  action demonstrations}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of Experimental Child
+  Psychology}{130}{}{176-192}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Jara-Ettinger%
+, Gweon%
+, Tenenbaum%
+\BCBL {}\ \BBA {} Schulz%
+}{%
+Jara-Ettinger%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {{\protect \BIP {}}}}%
+}]{%
+Ettinger}
+\APACinsertmetastar {%
+Ettinger}%
+\begin{APACrefauthors}%
+Jara-Ettinger, J.%
+, Gweon, H.%
+, Tenenbaum, J\BPBI B.%
+\BCBL {}\ \BBA {} Schulz, L\BPBI E.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{{\protect \BIP {}}}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Children's understanding of the costs and rewards
+  underlying rational action} {Children's understanding of the costs and
+  rewards underlying rational action}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Cognition}{}{}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Levin%
+\ \BBA {} Hovav%
+}{%
+Levin%
+\ \BBA {} Hovav%
+}{%
+{\protect \APACyear {2005}}%
+}]{%
+Levin2005}
+\APACinsertmetastar {%
+Levin2005}%
+\begin{APACrefauthors}%
+Levin, B.%
+\BCBT {}\ \BBA {} Hovav, M\BPBI R.%
+\end{APACrefauthors}%
+\ (\BEDS).
+\unskip\
+\newblock
+\APACrefYear{2005}.
+\newblock
+\APACrefbtitle {Argument Realization} {Argument realization}.
+\newblock
+\APACaddressPublisher{Cambridge, UK}{Cambridge University Press}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Levin%
+\ \BBA {} Hovav%
+}{%
+Levin%
+\ \BBA {} Hovav%
+}{%
+{\protect \APACyear {2011}}%
+}]{%
+Levin2011}
+\APACinsertmetastar {%
+Levin2011}%
+\begin{APACrefauthors}%
+Levin, B.%
+\BCBT {}\ \BBA {} Hovav, M\BPBI R.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2011}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Lexical Conceptual Structure} {Lexical conceptual
+  structure}.{\BBCQ}
+\newblock
+\BIn{} K.~von Heusinger, C.~Maienborn\BCBL {}\ \BBA {} P.~Portner\ (\BEDS),
+  \APACrefbtitle {Semantics: An international handbook of natural language
+  meaning I.} {Semantics: An international handbook of natural language meaning
+  i.}
+\newblock
+\APACaddressPublisher{Berlin}{Mouton de Gruyter}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Pinker%
+}{%
+Pinker%
+}{%
+{\protect \APACyear {1989}}%
+}]{%
+Pinker1989}
+\APACinsertmetastar {%
+Pinker1989}%
+\begin{APACrefauthors}%
+Pinker, S.%
+\end{APACrefauthors}%
+\ (\BED).
+\unskip\
+\newblock
+\APACrefYear{1989}.
+\newblock
+\APACrefbtitle {Language and cogntion: The acquisition of argument structure}
+  {Language and cogntion: The acquisition of argument structure}.
+\newblock
+\APACaddressPublisher{Cambridge, MA}{MIT Press}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Radvansky%
+\ \BBA {} Zacks%
+}{%
+Radvansky%
+\ \BBA {} Zacks%
+}{%
+{\protect \APACyear {2014}}%
+}]{%
+Radvansky2014}
+\APACinsertmetastar {%
+Radvansky2014}%
+\begin{APACrefauthors}%
+Radvansky, G\BPBI A.%
+\BCBT {}\ \BBA {} Zacks, J\BPBI M.%
+\end{APACrefauthors}%
+\ (\BEDS).
+\unskip\
+\newblock
+\APACrefYear{2014}.
+\newblock
+\APACrefbtitle {Event Cognition} {Event cognition}.
+\newblock
+\APACaddressPublisher{New York}{Oxford University Press}.
 \PrintBackRefs{\CurrentBib}
 
 \end{thebibliography}

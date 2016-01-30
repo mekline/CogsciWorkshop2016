@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  30 JAN 2016 12:00
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  30 JAN 2016 14:30
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -546,28 +546,65 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 69.
 
-(./AcquisitionTheoriesEvents.bbl) [1{/usr/local/texlive/2015/texmf-var/fonts/ma
-p/pdftex/updmap/pdftex.map}
+
+LaTeX Warning: Citation `Pinker1989' undefined on input line 79.
+
+
+LaTeX Warning: Citation `Clark2004' undefined on input line 79.
+
+
+LaTeX Warning: Citation `Bowerman1989' undefined on input line 79.
+
+
+LaTeX Warning: Citation `Radvansky2014' undefined on input line 85.
+
+
+LaTeX Warning: Citation `Gopnikinpress' undefined on input line 88.
+
+
+LaTeX Warning: Citation `Battaglia2013' undefined on input line 88.
+
+
+LaTeX Warning: Citation `Ettinger' undefined on input line 93.
+
+
+LaTeX Warning: Citation `Henrik2015' undefined on input line 93.
+
+
+LaTeX Warning: Citation `Levin2011' undefined on input line 98.
+
+
+LaTeX Warning: Citation `Levin2005' undefined on input line 98.
+
+
+LaTeX Warning: Citation `Ambridge2013' undefined on input line 99.
+
+[1{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 
 
-] (./AcquisitionTheoriesEvents.aux) ) 
+]
+(./AcquisitionTheoriesEvents.bbl) [2] (./AcquisitionTheoriesEvents.aux)
+
+LaTeX Warning: There were undefined references.
+
+ ) 
 Here is how much of TeX's memory you used:
- 12558 strings out of 493089
- 251674 string characters out of 6134842
- 290197 words of memory out of 5000000
- 15786 multiletter control sequences out of 15000+600000
+ 12578 strings out of 493089
+ 251943 string characters out of 6134842
+ 292558 words of memory out of 5000000
+ 15806 multiletter control sequences out of 15000+600000
  25100 words of font info for 49 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  62i,10n,82p,442b,617s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2015/texmf-dist/fonts/
-enc/dvips/base/8r.enc}</usr/local/texlive/2015/texmf-dist/fonts/type1/urw/times
-/utmb8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/times/utmr8a.pf
-b></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on AcquisitionTheoriesEvents.pdf (1 page, 45870 bytes).
+{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
+exlive/2015/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/201
+5/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2015/texmf-di
+st/fonts/type1/urw/times/utmri8a.pfb>
+Output written on AcquisitionTheoriesEvents.pdf (2 pages, 56172 bytes).
 PDF statistics:
- 24 PDF objects out of 1000 (max. 8388607)
- 17 compressed objects within 1 object stream
+ 27 PDF objects out of 1000 (max. 8388607)
+ 19 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 
