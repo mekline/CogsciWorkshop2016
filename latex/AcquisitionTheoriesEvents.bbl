@@ -35,6 +35,36 @@ Ambridge, B.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Baldwin%
+\ \BBA {} Sage%
+}{%
+Baldwin%
+\ \BBA {} Sage%
+}{%
+{\protect \APACyear {2013}}%
+}]{%
+Badwin2013}
+\APACinsertmetastar {%
+Badwin2013}%
+\begin{APACrefauthors}%
+Baldwin, D.%
+\BCBT {}\ \BBA {} Sage, K.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2013}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Dwelling on action} {Dwelling on action}.{\BBCQ}
+\newblock
+\BIn{} M.~Rutherford\ \BBA {} V.~Kuhlmeier\ (\BEDS), \APACrefbtitle {Social
+  perception: Detection and interpretation of animacy, agency, and intention.}
+  {Social perception: Detection and interpretation of animacy, agency, and
+  intention.}
+\newblock
+\APACaddressPublisher{Cambridge, MA}{MIT Press}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Battaglia%
 , Hamrick%
 \BCBL {}\ \BBA {} Tenenbaum%
@@ -111,6 +141,95 @@ Clark, E\BPBI V.%
   development}.{\BBCQ}
 \newblock
 \APACjournalVolNumPages{Trends in Cognitive Sciences}{8}{}{472-478}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Connor%
+, Fisher%
+\BCBL {}\ \BBA {} Roth%
+}{%
+Connor%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2013}}%
+}]{%
+Connor2013}
+\APACinsertmetastar {%
+Connor2013}%
+\begin{APACrefauthors}%
+Connor, M.%
+, Fisher, C.%
+\BCBL {}\ \BBA {} Roth, D.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2013}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Starting from scratch in Semantic Role Labeling: Early
+  indirect supervision} {Starting from scratch in semantic role labeling: Early
+  indirect supervision}.{\BBCQ}
+\newblock
+\BIn{} T.~Poibeau, A.~Villavicencio, A.~Korhonen\BCBL {}\ \BBA {} A.~Alishahi\
+  (\BEDS), \APACrefbtitle {Cognitive aspects of computational language
+  acquisition.} {Cognitive aspects of computational language acquisition.}
+\newblock
+\APACaddressPublisher{Berlin}{Springer}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Fisher%
+, Gertner%
+, Scott%
+\BCBL {}\ \BBA {} Yuan%
+}{%
+Fisher%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2010}}%
+}]{%
+Fisher2010}
+\APACinsertmetastar {%
+Fisher2010}%
+\begin{APACrefauthors}%
+Fisher, C.%
+, Gertner, Y.%
+, Scott, R.%
+\BCBL {}\ \BBA {} Yuan, S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2010}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Syntactic bootstrapping} {Syntactic
+  bootstrapping}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Wiley Interdisciplinary Reviews: Cognitive
+  Science}{1}{}{143-149}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Goodman%
+, Ullman%
+\BCBL {}\ \BBA {} Tenenbaum%
+}{%
+Goodman%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2011}}%
+}]{%
+Goodman2011}
+\APACinsertmetastar {%
+Goodman2011}%
+\begin{APACrefauthors}%
+Goodman, N\BPBI D.%
+, Ullman, T.%
+\BCBL {}\ \BBA {} Tenenbaum, J\BPBI B.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2011}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Learning a theory of causality} {Learning a theory of
+  causality}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Psychological Review}{118}{}{110-110}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -255,6 +374,65 @@ Jara-Ettinger, J.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Kao%
+, Wu%
+, Bergen%
+\BCBL {}\ \BBA {} Goodman%
+}{%
+Kao%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2014}}%
+}]{%
+Kao2014}
+\APACinsertmetastar {%
+Kao2014}%
+\begin{APACrefauthors}%
+Kao, J\BPBI T.%
+, Wu, J.%
+, Bergen, L.%
+\BCBL {}\ \BBA {} Goodman, N\BPBI D.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2014}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Nonliteral understanding of number words} {Nonliteral
+  understanding of number words}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Proceedings of the National Academy of
+  Sciences}{111}{}{12002-12007}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Kline%
+, Snedeker%
+\BCBL {}\ \BBA {} Schulz%
+}{%
+Kline%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {submitted}}%
+}]{%
+Klineinpress}
+\APACinsertmetastar {%
+Klineinpress}%
+\begin{APACrefauthors}%
+Kline, M.%
+, Snedeker, J.%
+\BCBL {}\ \BBA {} Schulz, L\BPBI E.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{submitted}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Children's expectations about the meanings of transitive
+  verbs are sensitive to spatiotemporal properties of causal scenes}
+  {Children's expectations about the meanings of transitive verbs are sensitive
+  to spatiotemporal properties of causal scenes}.{\BBCQ}
+\newblock
+
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Levin%
 \ \BBA {} Hovav%
 }{%
@@ -312,6 +490,34 @@ Levin, B.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Piantadosi%
+, Tenenbaum%
+\BCBL {}\ \BBA {} Goodman%
+}{%
+Piantadosi%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {{\protect \BIP {}}}}%
+}]{%
+Piantadosiinpress}
+\APACinsertmetastar {%
+Piantadosiinpress}%
+\begin{APACrefauthors}%
+Piantadosi, S\BPBI T.%
+, Tenenbaum, J\BPBI B.%
+\BCBL {}\ \BBA {} Goodman, N\BPBI D.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{{\protect \BIP {}}}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {The logical primitives of thought: Empirical foundations
+  for compositional cognitive modles} {The logical primitives of thought:
+  Empirical foundations for compositional cognitive modles}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Psychological Review}{}{}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Pinker%
 }{%
 Pinker%
@@ -359,6 +565,60 @@ Radvansky, G\BPBI A.%
 \APACrefbtitle {Event Cognition} {Event cognition}.
 \newblock
 \APACaddressPublisher{New York}{Oxford University Press}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Tversky%
+\ \BBA {} Zacks%
+}{%
+Tversky%
+\ \BBA {} Zacks%
+}{%
+{\protect \APACyear {2013}}%
+}]{%
+Tversky2013}
+\APACinsertmetastar {%
+Tversky2013}%
+\begin{APACrefauthors}%
+Tversky, B.%
+\BCBT {}\ \BBA {} Zacks, J\BPBI M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2013}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Event perception} {Event perception}.{\BBCQ}
+\newblock
+\BIn{} D.~Riesberg\ (\BED), \APACrefbtitle {Oxford handbook of cognitive
+  psychology.} {Oxford handbook of cognitive psychology.}
+\newblock
+\APACaddressPublisher{Oxford, UK}{Oxford University Press}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Wittenberg%
+\ \BBA {} Snedeker%
+}{%
+Wittenberg%
+\ \BBA {} Snedeker%
+}{%
+{\protect \APACyear {2014}}%
+}]{%
+Wittengerg2014}
+\APACinsertmetastar {%
+Wittengerg2014}%
+\begin{APACrefauthors}%
+Wittenberg, E.%
+\BCBT {}\ \BBA {} Snedeker, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2014}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {It takes two to kiss, but does it take three to give a
+  kiss?} {It takes two to kiss, but does it take three to give a kiss?}{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Language, Cognition, and Neuroscience}{29}{}{635-641}.
 \PrintBackRefs{\CurrentBib}
 
 \end{thebibliography}
