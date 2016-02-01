@@ -176,36 +176,6 @@ Connor, M.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
-Fisher%
-, Gertner%
-, Scott%
-\BCBL {}\ \BBA {} Yuan%
-}{%
-Fisher%
-\ \protect \BOthers {.}}{%
-{\protect \APACyear {2010}}%
-}]{%
-Fisher2010}
-\APACinsertmetastar {%
-Fisher2010}%
-\begin{APACrefauthors}%
-Fisher, C.%
-, Gertner, Y.%
-, Scott, R.%
-\BCBL {}\ \BBA {} Yuan, S.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2010}{}{}.
-\newblock
-{\BBOQ}\APACrefatitle {Syntactic bootstrapping} {Syntactic
-  bootstrapping}.{\BBCQ}
-\newblock
-\APACjournalVolNumPages{Wiley Interdisciplinary Reviews: Cognitive
-  Science}{1}{}{143-149}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
 Goodman%
 , Ullman%
 \BCBL {}\ \BBA {} Tenenbaum%
@@ -487,34 +457,6 @@ Levin, B.%
   i.}
 \newblock
 \APACaddressPublisher{Berlin}{Mouton de Gruyter}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
-Piantadosi%
-, Tenenbaum%
-\BCBL {}\ \BBA {} Goodman%
-}{%
-Piantadosi%
-\ \protect \BOthers {.}}{%
-{\protect \APACyear {{\protect \BIP {}}}}%
-}]{%
-Piantadosiinpress}
-\APACinsertmetastar {%
-Piantadosiinpress}%
-\begin{APACrefauthors}%
-Piantadosi, S\BPBI T.%
-, Tenenbaum, J\BPBI B.%
-\BCBL {}\ \BBA {} Goodman, N\BPBI D.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{{\protect \BIP {}}}{}{}.
-\newblock
-{\BBOQ}\APACrefatitle {The logical primitives of thought: Empirical foundations
-  for compositional cognitive modles} {The logical primitives of thought:
-  Empirical foundations for compositional cognitive modles}.{\BBCQ}
-\newblock
-\APACjournalVolNumPages{Psychological Review}{}{}{}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
