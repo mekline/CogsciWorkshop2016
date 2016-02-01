@@ -30,5 +30,6 @@
     "NewellSimon1972a"
     "Pinker1989"
     "Radvansky2014"
-    "Levin2005")))
+    "Levin2005"))
+ :bibtex)
 

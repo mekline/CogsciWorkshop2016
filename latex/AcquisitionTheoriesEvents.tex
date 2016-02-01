@@ -20,16 +20,10 @@
 
 \documentclass[10pt,letterpaper]{article}
 
-\usepackage{hyperref}
-\hypersetup{
-    colorlinks=true,       % false: boxed links; true: colored links
-    citecolor=black,        % color of links to bibliography
-    urlcolor=cyan           % color of external links
-    }
-
 \usepackage{cogsci}
 \usepackage{pslatex}
 \usepackage{apacite}
+\usepackage{color}
 
 
 % \usepackage[disable]{todonotes} % notes not showed
@@ -44,7 +38,7 @@
 \newcommand{\etodo}[2][]
 {\todo[caption={#2}, size=\small, #1, color = red, inline]{\renewcommand{\baselinestretch}{1}\selectfont \textbf{LN}: #2}~}
 
-\title{Learning to Talk about Events\\ Grounding Language Acquisition in Intuitive Theories and Event Cognition} %Josh: "Talking about thoughts" for title pt. 1
+\title{Learning to Talk about Events\\ Grounding Language Acquisition in Intuitive Theories and Event Cognition} %Josh: "Talking about thoughts" for title pt. 1c
 
 \author{{\large \bf Eva Wittenberg (ewittenberg@ucsd.edu)} \\
   Department of Linguistics,
@@ -62,6 +56,7 @@
   140 Commonwealth Ave,
   Chestnut Hill, MA 02467}
 
+\usepackage{navigator} %use instead of hyperref, which has lots of incompatibilities
 
 \begin{document}
 
@@ -77,8 +72,6 @@ development; intuitive theories; argument structure
 
 \section{Introduction}
 
-\jtodo{All the basics of the proposal are in it now. And it's wayyyyyy too long.  Remove non-vital citations? I took a stab at shortening, quitting for the night} 
-
 Language is a powerful tool for moving thoughts from the
 head of one person to another. Thus, any theory of language must make
 contact with theories of thought and conceptual representation. Any
@@ -87,16 +80,16 @@ concepts, whether those concepts were pre-existing or created during
 the process of language acquisition. Conversely, theories of
 conceptual representation are constrained by the need to support
 language and language acquisition. Indeed, there is a rich tradition
-of cognitive science research that explicitly tackles these issues \cite{Pinker1989,Clark2004,Bowerman1989}.
+of cognitive science research that explicitly tackles these issues \cite{Clark2004,Bowerman1989}.
 
 Right now is a particularly opportune time to assess our
 current understanding of how language acquisition might be grounded in
 thought -- particularly focusing beyond the better-explored domains of
 objects and kinds to events. Recent years have seen the emergence of a
-robust psychological literature on event representations \cite{Radvansky2014}. There has
+robust psychological literature on event representations \cite{Tversky2013}. There has
 likewise been explosive growth in the
-``intuitive theory'' or ``Theory Theory'' approach to conceptual organization 
-\cite{Gopnikinpress,Battaglia2013,HOT2015}. On such accounts, concepts are
+``intuitive theory'' or ``Theory Theory'' approach to conceptual organization
+\cite{Gopnikinpress,HOT2015,Goodman2011,Battaglia2013}. On such accounts, concepts are
 embedded in robust theories -- much like those used by
 scientists -- and derive their meaning from their role in those
 theories. Importantly, our growing understanding of concepts
@@ -140,28 +133,22 @@ particularly rich set of phenomena touching upon issues of central
 concern to the disparate concepts and events literatures. To these ends, the workshop speakers represent diverse research
 traditions and topics, and many have contributed to multiple of these literatures.
 
-\jtodo{I don't love the following paragraph, but after 90
-  min. struggling with it, this is the best I got! MK just reorganized to parallel the preceding paragraphs: ling to psycholing to events. And removed a bunch of cites for space}
-  
 Beth Levin, Joshua Hartshorne, and Eva Wittenberg will discuss insights into event
-representations that stem from investigation of \textbf{linguistic structure}
-\cite<cf.>{Wittengerg2014,HOSULS,Levin2005}. Cynthia Fisher, Joshua Hartshorne, and
-Melissa Kline will discuss the grounding of \textbf{verb acquisition} in event representations
-\cite<cf.>{Connor2013, Klineinpress, HOSULS}, and Noah Goodman
+representations that stem from investigation of \textbf{linguistic structure}. Cynthia Fisher, Joshua Hartshorne, and
+Melissa Kline will discuss the grounding of \textbf{verb acquisition} in event representations, and Noah Goodman
 will discuss his work grounding language processing more generally in
-conceptual representations \cite<cf.>{Kao2014}. Beyond this, many of the talks will focus squarely on {conceptual and event representations}. Many speakers
+conceptual representations. Beyond this, many of the talks will focus squarely on {conceptual and event representations}. Many speakers
 will discuss recent work on \textbf{infant and child cognition}, especially Dare Baldwin and
-Gergely Csibra \cite<cf.>{Henrik2015,Badwin2013}.
-Barbara Tversky and Jeffrey
-Zacks will discuss event perception and segmentation \cite<cf.>{Radvansky2014,Tversky2013}, and the role of intuitive
-theories will be discussed by Noah Goodman and
-Joshua Tenenbaum \cite<cf.>{Battaglia2013,Goodman2011,Ettinger}. 
+Gergely Csibra. Barbara Tversky and Jeffrey Zacks will discuss event
+perception and segmentation, and the potential role of
+\textbf{intuitive theories} will be discussed by Noah Goodman and
+Joshua Tenenbaum.
 
 All speakers will endeavor to draw out connections between the
 different lines of research. Question periods and discussion during
-coffee breaks will allow participants -- including audience members --
-to discuss convergences and apparent conflicts between the different
-literatures, generating future directions for research.
+coffee breaks will allow participants and attendees
+to synthesize the different literatures, generating future directions
+for research.
 
 \section{Workshop Organization}
 
@@ -170,68 +157,60 @@ presentations (including Q\&A). The presentations will range from
 theoretical overviews to detailed discussion of specific
 phenomena. Interspersed coffee breaks will help spur discussion about
 promising avenues for future research and help build a common
-vocabulary and agenda.
+vocabulary and agenda. Presentations will be geared towards an
+interdisciplinary audience and should be approachable by a broad
+cognitive science audience.
 
 \subsection{Workshop Organizers}
 
-\textbf{Eva Wittenberg} is \jtodo{Please blurb}. \textbf{Melissa Kline} is a postdoctoral researcher in the Harvard Psychology department studying how babies' and young children's cognitive representations of events relate to verb meaning and argument structure.
+\textbf{Eva Wittenberg} is a postdoctoral researcher in the
+Departments of Linguistics and Psychology at UCSD. Her research
+focuses on how the mind assembles meaning and how that capacity came
+to be. \textbf{Melissa Kline} is a postdoctoral researcher in the Harvard Psychology department studying how babies' and young children's cognitive representations of events relate to verb meaning and argument structure.
 \textbf{Joshua K. Hartshorne} is an assistant professor of
 Psychology at Boston College. His work focuses on the interaction
-between conceptual and linguistic representations in both processing
-and acquisition.
+between conceptual and linguistic representations.
 
 \section{Target Audience}
 
 The target audience for this workshop overlaps significantly
 with the target audience of CogSci. The workshop's central themes
-(language acquisition and conceptual representation) have long been
-central concerns of the Society and are typically well-represented at
-its meetings. Moreover, our specific focus on event representations
-dovetails this year's overall conference theme: ``Recognizing and
+(language acquisition and conceptual representation) are central concerns of the Society and are typically well-represented at
+its meetings. The multidisciplinary nature of the work is particularly
+appropriate for a multidisciplinary conference like CogSci. Finally,
+our specific focus dovetails this year's overall conference theme: ``Recognizing and
 representing events: Integrating psychological, linguistic,
 computational and neural perspectives.''
 
-Moreover, the workshop approaches these themes from a
-multidisplinary perspective, as seen in the disciplinary diversity of
-the participants. Because the presentations will be geared towards an
-interdisciplinary audience, they should be approachable by a broad
-cognitive science audience.
-
 \section{Confirmed Speakers}
 
-\begin{itemize}
-\item[] \href{http://baldwinlab.uoregon.edu/dr-dare-baldwin/}{Dare Baldwin}, University of Oregon
-\item[] \href{https://people.ceu.edu/gergely_csibra}{Gergely Csibra}, Central European University  
-\item[] \href{http://www.psychology.illinois.edu/people/clfishe}{Cynthia Fisher}, University of Illinois, Urbana-Champaign
-\item[] Allison Gopnik XYZ not confirmed, included for spacing reasons in case of surprises
-\item[] \href{http://cocolab.stanford.edu/ndg.html}{Noah Goodman}, Stanford University
-\item[] \href{http://joshuakhartshorne.org/}{Joshua Hartshorne}, Boston College
-\item[] \href{http://www.melissakline.net/}{Melissa Kline}, Harvard University
-\item[] \href{http://web.stanford.edu/~bclevin/}{Beth Levin}, Stanford University
-\item[] \href{http://web.mit.edu/cocosci/josh.html}{Josh Tenenbaum}, Massachusetts Institute of Technology
-\item[] \href{http://www-psych.stanford.edu/~bt/}{Barbara Tversky}, Stanford University
-\item[] \href{http://evawittenberg.com/i/start.html}{Eva Wittenberg}, University of California, San Diego  
-\item[] \href{http://pages.wustl.edu/dcl/jeff-zacks/}{Jeff Zacks}, Washington University in St. Louis
-\end{itemize}
-
+{\color{blue} \urllink{http://baldwinlab.uoregon.edu/dr-dare-baldwin/}{Dare Baldwin}}, University of Oregon\\
+{\color{blue} \urllink{https://people.ceu.edu/gergely_csibra}{Gergely Csibra}}, Central European University\\
+{\color{blue} \urllink{http://www.psychology.illinois.edu/people/clfishe}{Cynthia Fisher}}, University of Illinois, Urbana-Champaign\\
+{\color{blue} \urllink{http://cocolab.stanford.edu/ndg.html}{Noah Goodman}}, Stanford University\\
+{\color{blue} \urllink{http://joshuakhartshorne.org/}{Joshua Hartshorne}}, Boston College\\
+{\color{blue} \urllink{http://www.melissakline.net/}{Melissa Kline}}, Harvard University\\
+{\color{blue} \urllink{http://web.stanford.edu/~bclevin/}{Beth Levin}}, Stanford University\\
+{\color{blue} \urllink{http://web.mit.edu/cocosci/josh.html}{Josh Tenenbaum}}, Massachusetts Institute of Technology\\
+{\color{blue} \urllink{http://www-psych.stanford.edu/~bt/}{Barbara Tversky}}, Stanford University\\
+{\color{blue} \urllink{http://evawittenberg.com/i/start.html}{Eva Wittenberg}}, University of California, San Diego\\
+{\color{blue} \urllink{http://pages.wustl.edu/dcl/jeff-zacks/}{Jeff Zacks}}, Washington University in St. Louis\\
 %Version of the speaker list with departments listed, but I don't think it's necessary
 %\begin{itemize}
-%\item[] \href{http://baldwinlab.uoregon.edu/dr-dare-baldwin/}{Dare Baldwin}, Department of Psychology, University of Oregon
-%\item[] \href{https://people.ceu.edu/gergely_csibra}{Gergely Csibra}, Department of Cognitive Science, Central European University  
-%\item[] \href{http://www.psychology.illinois.edu/people/clfishe}{Cynthia Fisher}, Department of Psychology, University of Illinois, Urbana-Champaign
-%  
+%\item[] \urllink{http://baldwinlab.uoregon.edu/dr-dare-baldwin/}{Dare Baldwin}, Department of Psychology, University of Oregon
+%\item[] \urllink{https://people.ceu.edu/gergely_csibra}{Gergely Csibra}, Department of Cognitive Science, Central European University
+%\item[] \urllink{http://www.psychology.illinois.edu/people/clfishe}{Cynthia Fisher}, Department of Psychology, University of Illinois, Urbana-Champaign
+%
 %\item[] Allison Gopnik XYZ not confirmed yet, included for spacing reasons
-%  
-%\item[] \href{http://cocolab.stanford.edu/ndg.html}{Noah Goodman}, Department of Psychology, Stanford University
-%\item[] \href{http://joshuakhartshorne.org/}{Joshua Hartshorne}, Department of Psychology, Boston College
-%\item[] \href{http://www.melissakline.net/}{Melissa Kline}, Department of Psychology, Harvard University\item[] \href{http://web.stanford.edu/~bclevin/}{Beth Levin}, Department of Linguistics, Stanford University*
-%\item[] \href{http://web.mit.edu/cocosci/josh.html}{Josh Tenenbaum}, Department of Brain and Cognitive Sciences, Massachusetts Institute of Technology*
-%\item[] \href{http://www-psych.stanford.edu/~bt/}{Barbara Tversky}, Department of Psychology, Stanford University
-%\item[] \href{http://evawittenberg.com/i/start.html}{Eva Wittenberg}, Departments of Linguistics and Psychology, University of California, San Diego  
-%\item[] \href{http://pages.wustl.edu/dcl/jeff-zacks/}{Jeff Zacks}, Department of Psychological and Brain Sciences, Washington University in St. Louis
+%
+%\item[] \urllink{http://cocolab.stanford.edu/ndg.html}{Noah Goodman}, Department of Psychology, Stanford University
+%\item[] \urllink{http://joshuakhartshorne.org/}{Joshua Hartshorne}, Department of Psychology, Boston College
+%\item[] \urllink{http://www.melissakline.net/}{Melissa Kline}, Department of Psychology, Harvard University\item[] \urllink{http://web.stanford.edu/~bclevin/}{Beth Levin}, Department of Linguistics, Stanford University*
+%\item[] \urllink{http://web.mit.edu/cocosci/josh.html}{Josh Tenenbaum}, Department of Brain and Cognitive Sciences, Massachusetts Institute of Technology*
+%\item[] \urllink{http://www-psych.stanford.edu/~bt/}{Barbara Tversky}, Department of Psychology, Stanford University
+%\item[] \urllink{http://evawittenberg.com/i/start.html}{Eva Wittenberg}, Departments of Linguistics and Psychology, University of California, San Diego
+%\item[] \urllink{http://pages.wustl.edu/dcl/jeff-zacks/}{Jeff Zacks}, Department of Psychological and Brain Sciences, Washington University in St. Louis
 %\end{itemize}
-
-
 \bibliographystyle{apacite}
 
 \setlength{\bibleftmargin}{.125in}
@@ -241,7 +220,7 @@ cognitive science audience.
 
 
 \end{document}
-
+\finishpdffile
 %%% Local Variables:
 %%% mode: latex
 %%% TeX-master: t
