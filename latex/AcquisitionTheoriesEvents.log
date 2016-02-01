@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  31 JAN 2016 23:06
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  31 JAN 2016 23:38
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -648,45 +648,42 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 72.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 77.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 78.
  [1{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 
 
 ]
 (./AcquisitionTheoriesEvents.bbl [2])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 245.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 243.
  [3
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 245.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 243.
  (./AcquisitionTheoriesEvents.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 245.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 245.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 243.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 243.
 Package rerunfilecheck Info: File `AcquisitionTheoriesEvents.out' has not chang
 ed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 245.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 243.
  ) 
 Here is how much of TeX's memory you used:
- 16154 strings out of 493089
- 306368 string characters out of 6134842
- 374768 words of memory out of 5000000
- 19329 multiletter control sequences out of 15000+600000
+ 16152 strings out of 493089
+ 306331 string characters out of 6134842
+ 374777 words of memory out of 5000000
+ 19327 multiletter control sequences out of 15000+600000
  25100 words of font info for 49 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 62i,10n,82p,435b,623s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 62i,10n,82p,435b,625s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
 exlive/2015/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/201
 5/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2015/texmf-di
 st/fonts/type1/urw/times/utmri8a.pfb>
-Output written on AcquisitionTheoriesEvents.pdf (3 pages, 66018 bytes).
+Output written on AcquisitionTheoriesEvents.pdf (3 pages, 66205 bytes).
 PDF statistics:
- 160 PDF objects out of 1000 (max. 8388607)
- 150 compressed objects within 2 object streams
+ 150 PDF objects out of 1000 (max. 8388607)
+ 140 compressed objects within 2 object streams
  36 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 
