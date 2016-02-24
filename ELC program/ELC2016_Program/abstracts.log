@@ -1,0 +1,953 @@
+This is pdfTeX, Version 3.1415926-1.40.11 (TeX Live 2010) (format=pdflatex 2010.7.21)  24 FEB 2016 18:16
+entering extended mode
+ \write18 enabled.
+ %&-line parsing enabled.
+**abstracts.tex
+(./abstracts.tex
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, dumylang, nohyphenation, ge
+rman-x-2009-06-19, ngerman-x-2009-06-19, ancientgreek, ibycus, arabic, armenian
+, basque, bulgarian, catalan, pinyin, coptic, croatian, czech, danish, dutch, u
+kenglish, usenglishmax, esperanto, estonian, farsi, finnish, french, galician, 
+german, ngerman, swissgerman, monogreek, greek, hungarian, icelandic, assamese,
+ bengali, gujarati, hindi, kannada, malayalam, marathi, oriya, panjabi, tamil, 
+telugu, indonesian, interlingua, irish, italian, kurmanji, lao, latin, latvian,
+ lithuanian, mongolian, mongolianlmc, bokmal, nynorsk, polish, portuguese, roma
+nian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, turkish,
+ turkmen, ukrainian, uppersorbian, welsh, loaded.
+(/usr/local/texlive/2010/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2010/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/local/texlive/2010/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/07/13 v5.5 Page Geometry
+
+(/usr/local/texlive/2010/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/local/texlive/2010/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2010/01/28 v2.1 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in pdf mode detected.
+)
+(/usr/local/texlive/2010/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2010/03/01 v1.5 Switches for detecting VTeX and its modes (HO)
+Package ifvtex Info: VTeX not detected.
+)
+\Gm@cnth=\count87
+\Gm@cntv=\count88
+\c@Gm@tempcnt=\count89
+\Gm@bindingoffset=\dimen103
+\Gm@wd@mp=\dimen104
+\Gm@odd@mp=\dimen105
+\Gm@even@mp=\dimen106
+\Gm@layoutwidth=\dimen107
+\Gm@layoutheight=\dimen108
+\Gm@layouthoffset=\dimen109
+\Gm@layoutvoffset=\dimen110
+\Gm@dimlist=\toks15
+)
+(/usr/local/texlive/2010/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2010/01/12 v0.4j Insert pages of external PDF documents (AM)
+
+(/usr/local/texlive/2010/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/local/texlive/2010/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2007/08/22 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count90
+\calc@Bcount=\count91
+\calc@Adimen=\dimen111
+\calc@Bdimen=\dimen112
+\calc@Askip=\skip43
+\calc@Bskip=\skip44
+LaTeX Info: Redefining \setlength on input line 76.
+LaTeX Info: Redefining \addtolength on input line 77.
+\calc@Ccount=\count92
+\calc@Cskip=\skip45
+)
+(/usr/local/texlive/2010/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2010/06/08 v2.0b eso-pic (RN)
+
+(/usr/local/texlive/2010/texmf-dist/tex/generic/oberdiek/atbegshi.sty
+Package: atbegshi 2010/03/25 v1.12 At begin shipout hook (HO)
+
+(/usr/local/texlive/2010/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/message (HO)
+)
+(/usr/local/texlive/2010/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2010/04/26 v1.7 LaTeX kernel commands for general use (HO)
+))
+(/usr/local/texlive/2010/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+(/usr/local/texlive/2010/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+
+(/usr/local/texlive/2010/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2010/02/14 v0.04n Graphics/color for pdfTeX
+\Gread@gobject=\count93
+)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+))
+(/usr/local/texlive/2010/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2010/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2010/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/local/texlive/2010/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+)
+\Gin@req@height=\dimen113
+\Gin@req@width=\dimen114
+)
+(/usr/local/texlive/2010/texmf-dist/tex/latex/pdfpages/pppdftex.def
+File: pppdftex.def 2010/01/12 v0.4j Pdfpages driver for pdfTeX (AM)
+)
+\AM@pagebox=\box26
+\AM@toc@title=\toks16
+\c@AM@survey=\count94
+\AM@templatesizebox=\box27
+)
+(/usr/local/texlive/2010/texmf-dist/tex/latex/tools/tabularx.sty
+Package: tabularx 1999/01/07 v2.07 `tabularx' package (DPC)
+
+(/usr/local/texlive/2010/texmf-dist/tex/latex/tools/array.sty
+Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen115
+\extrarowheight=\dimen116
+\NC@list=\toks17
+\extratabsurround=\skip46
+\backup@length=\skip47
+)
+\TX@col@width=\dimen117
+\TX@old@table=\dimen118
+\TX@old@col=\dimen119
+\TX@target=\dimen120
+\TX@delta=\dimen121
+\TX@cols=\count95
+\TX@ftn=\toks18
+)
+(./abstracts.aux)
+\openout1 = `abstracts.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(39.93068pt, 534.43364pt, 39.93068pt)
+* v-part:(T,H,B)=(41.34pt, 691.62pt, 62.01pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=534.43364pt
+* \textheight=691.62pt
+* \oddsidemargin=-32.33931pt
+* \evensidemargin=-32.33931pt
+* \topmargin=-67.93pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+\AtBeginShipoutBox=\box28
+(/usr/local/texlive/2010/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count96
+\scratchdimen=\dimen122
+\scratchbox=\box29
+\nofMPsegments=\count97
+\nofMParguments=\count98
+\everyMPshowfont=\toks19
+\MPscratchCnt=\count99
+\MPscratchDim=\dimen123
+\MPnumerator=\count100
+\everyMPtoPDFconversion=\toks20
+) (/usr/local/texlive/2010/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2010/04/01 v0.9 Utility functions of pdfTeX for LuaTeX (HO)
+
+
+(/usr/local/texlive/2010/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+)
+(/usr/local/texlive/2010/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/local/texlive/2010/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2007/09/30 v1.0 Managing graphics extensions (HO)
+)
+(/usr/local/texlive/2010/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2010/02/22 v3.7 Keyval support for LaTeX options (HO)
+
+(/usr/local/texlive/2010/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2010/03/01 v1.9 Key value parser (HO)
+
+(/usr/local/texlive/2010/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2010/01/28 v1.3 Prefix for e-TeX command names (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 436.
+
+(/usr/local/texlive/2010/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+[1
+
+{/usr/local/texlive/2010/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+[1]
+Missing character: There is no Â in font cmr12!
+Missing character: There is no ­ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no “ in font cmr12!
+ [2] [3] [4] <01_ELC2016_paper_29.pdf, id=23, page=1, 614.295pt x 794.97pt>
+File: 01_ELC2016_paper_29.pdf Graphic file (type pdf)
+
+<use 01_ELC2016_paper_29.pdf, page 1>
+File: 01_ELC2016_paper_29.pdf Graphic file (type pdf)
+ <use 01_ELC2016_paper_29.pdf, page 1>
+File: 01_ELC2016_paper_29.pdf Graphic file (type pdf)
+
+<use 01_ELC2016_paper_29.pdf, page 1>
+File: 01_ELC2016_paper_29.pdf Graphic file (type pdf)
+ <use 01_ELC2016_paper_29.pdf, page 1>
+File: 01_ELC2016_paper_29.pdf Graphic file (type pdf)
+
+<use 01_ELC2016_paper_29.pdf, page 1> [5 <./01_ELC2016_paper_29.pdf>]
+<01_ELC2016_paper_29.pdf, id=51, page=2, 614.295pt x 794.97pt>
+File: 01_ELC2016_paper_29.pdf Graphic file (type pdf)
+
+<use 01_ELC2016_paper_29.pdf, page 2>
+File: 01_ELC2016_paper_29.pdf Graphic file (type pdf)
+ <use 01_ELC2016_paper_29.pdf, page 2>
+File: 01_ELC2016_paper_29.pdf Graphic file (type pdf)
+
+<use 01_ELC2016_paper_29.pdf, page 2> [6 <./01_ELC2016_paper_29.pdf>]
+<02_ELC2016_paper_7.pdf, id=64, page=1, 614.295pt x 794.97pt>
+File: 02_ELC2016_paper_7.pdf Graphic file (type pdf)
+
+<use 02_ELC2016_paper_7.pdf, page 1>
+File: 02_ELC2016_paper_7.pdf Graphic file (type pdf)
+ <use 02_ELC2016_paper_7.pdf, page 1>
+File: 02_ELC2016_paper_7.pdf Graphic file (type pdf)
+
+<use 02_ELC2016_paper_7.pdf, page 1>
+File: 02_ELC2016_paper_7.pdf Graphic file (type pdf)
+ <use 02_ELC2016_paper_7.pdf, page 1>
+File: 02_ELC2016_paper_7.pdf Graphic file (type pdf)
+
+<use 02_ELC2016_paper_7.pdf, page 1> [7 <./02_ELC2016_paper_7.pdf>]
+<02_ELC2016_paper_7.pdf, id=89, page=2, 614.295pt x 794.97pt>
+File: 02_ELC2016_paper_7.pdf Graphic file (type pdf)
+
+<use 02_ELC2016_paper_7.pdf, page 2>
+File: 02_ELC2016_paper_7.pdf Graphic file (type pdf)
+ <use 02_ELC2016_paper_7.pdf, page 2>
+File: 02_ELC2016_paper_7.pdf Graphic file (type pdf)
+
+<use 02_ELC2016_paper_7.pdf, page 2> [8 <./02_ELC2016_paper_7.pdf>]
+<"02_The constructional evolution of grammatical functions and the representati
+on of events (abstract) v2".pdf, id=105, page=1, 614.295pt x 794.97pt>
+File: "02_The constructional evolution of grammatical functions and the represe
+ntation of events (abstract) v2".pdf Graphic file (type pdf)
+
+<use "02_The constructional evolution of grammatical functions and the represen
+tation of events (abstract) v2".pdf, page 1>
+File: "02_The constructional evolution of grammatical functions and the represe
+ntation of events (abstract) v2".pdf Graphic file (type pdf)
+
+<use "02_The constructional evolution of grammatical functions and the represen
+tation of events (abstract) v2".pdf, page 1>
+File: "02_The constructional evolution of grammatical functions and the represe
+ntation of events (abstract) v2".pdf Graphic file (type pdf)
+
+<use "02_The constructional evolution of grammatical functions and the represen
+tation of events (abstract) v2".pdf, page 1>
+File: "02_The constructional evolution of grammatical functions and the represe
+ntation of events (abstract) v2".pdf Graphic file (type pdf)
+
+<use "02_The constructional evolution of grammatical functions and the represen
+tation of events (abstract) v2".pdf, page 1>
+File: "02_The constructional evolution of grammatical functions and the represe
+ntation of events (abstract) v2".pdf Graphic file (type pdf)
+
+<use "02_The constructional evolution of grammatical functions and the represen
+tation of events (abstract) v2".pdf, page 1> [9 <./02_The constructional evolut
+ion of grammatical functions and the representation of events (abstract) v2.pdf
+>]
+<"02_The constructional evolution of grammatical functions and the representati
+on of events (abstract) v2".pdf, id=125, page=2, 614.295pt x 794.97pt>
+File: "02_The constructional evolution of grammatical functions and the represe
+ntation of events (abstract) v2".pdf Graphic file (type pdf)
+
+<use "02_The constructional evolution of grammatical functions and the represen
+tation of events (abstract) v2".pdf, page 2>
+File: "02_The constructional evolution of grammatical functions and the represe
+ntation of events (abstract) v2".pdf Graphic file (type pdf)
+
+<use "02_The constructional evolution of grammatical functions and the represen
+tation of events (abstract) v2".pdf, page 2>
+File: "02_The constructional evolution of grammatical functions and the represe
+ntation of events (abstract) v2".pdf Graphic file (type pdf)
+
+<use "02_The constructional evolution of grammatical functions and the represen
+tation of events (abstract) v2".pdf, page 2> [10 <./02_The constructional evolu
+tion of grammatical functions and the representation of events (abstract) v2.pd
+f>] <03_ELC2016_paper_33.pdf, id=136, page=1, 597.55246pt x 845.07718pt>
+File: 03_ELC2016_paper_33.pdf Graphic file (type pdf)
+
+<use 03_ELC2016_paper_33.pdf, page 1>
+File: 03_ELC2016_paper_33.pdf Graphic file (type pdf)
+ <use 03_ELC2016_paper_33.pdf, page 1>
+File: 03_ELC2016_paper_33.pdf Graphic file (type pdf)
+
+<use 03_ELC2016_paper_33.pdf, page 1>
+File: 03_ELC2016_paper_33.pdf Graphic file (type pdf)
+ <use 03_ELC2016_paper_33.pdf, page 1>
+File: 03_ELC2016_paper_33.pdf Graphic file (type pdf)
+
+<use 03_ELC2016_paper_33.pdf, page 1> [11 <./03_ELC2016_paper_33.pdf>]
+<03_ELC2016_paper_33.pdf, id=167, page=2, 597.55246pt x 845.07718pt>
+File: 03_ELC2016_paper_33.pdf Graphic file (type pdf)
+
+<use 03_ELC2016_paper_33.pdf, page 2>
+File: 03_ELC2016_paper_33.pdf Graphic file (type pdf)
+ <use 03_ELC2016_paper_33.pdf, page 2>
+File: 03_ELC2016_paper_33.pdf Graphic file (type pdf)
+
+<use 03_ELC2016_paper_33.pdf, page 2> [12 <./03_ELC2016_paper_33.pdf>]
+<04_ELC2016_paper_21.pdf, id=182, page=1, 614.295pt x 794.97pt>
+File: 04_ELC2016_paper_21.pdf Graphic file (type pdf)
+
+<use 04_ELC2016_paper_21.pdf, page 1>
+File: 04_ELC2016_paper_21.pdf Graphic file (type pdf)
+ <use 04_ELC2016_paper_21.pdf, page 1>
+File: 04_ELC2016_paper_21.pdf Graphic file (type pdf)
+
+<use 04_ELC2016_paper_21.pdf, page 1>
+File: 04_ELC2016_paper_21.pdf Graphic file (type pdf)
+ <use 04_ELC2016_paper_21.pdf, page 1>
+File: 04_ELC2016_paper_21.pdf Graphic file (type pdf)
+
+<use 04_ELC2016_paper_21.pdf, page 1> [13 <./04_ELC2016_paper_21.pdf>]
+<04_ELC2016_paper_21.pdf, id=208, page=2, 614.295pt x 794.97pt>
+File: 04_ELC2016_paper_21.pdf Graphic file (type pdf)
+
+<use 04_ELC2016_paper_21.pdf, page 2>
+File: 04_ELC2016_paper_21.pdf Graphic file (type pdf)
+ <use 04_ELC2016_paper_21.pdf, page 2>
+File: 04_ELC2016_paper_21.pdf Graphic file (type pdf)
+
+<use 04_ELC2016_paper_21.pdf, page 2> [14 <./04_ELC2016_paper_21.pdf>]
+<05_videoabstract3.pdf, id=217, page=1, 597.50829pt x 845.0471pt>
+File: 05_videoabstract3.pdf Graphic file (type pdf)
+
+<use 05_videoabstract3.pdf, page 1>
+File: 05_videoabstract3.pdf Graphic file (type pdf)
+ <use 05_videoabstract3.pdf, page 1>
+File: 05_videoabstract3.pdf Graphic file (type pdf)
+
+<use 05_videoabstract3.pdf, page 1>
+File: 05_videoabstract3.pdf Graphic file (type pdf)
+ <use 05_videoabstract3.pdf, page 1>
+File: 05_videoabstract3.pdf Graphic file (type pdf)
+
+<use 05_videoabstract3.pdf, page 1> [15 <./05_videoabstract3.pdf>]
+<05_videoabstract3.pdf, id=237, page=2, 597.50829pt x 845.0471pt>
+File: 05_videoabstract3.pdf Graphic file (type pdf)
+
+<use 05_videoabstract3.pdf, page 2>
+File: 05_videoabstract3.pdf Graphic file (type pdf)
+ <use 05_videoabstract3.pdf, page 2>
+File: 05_videoabstract3.pdf Graphic file (type pdf)
+
+<use 05_videoabstract3.pdf, page 2> [16 <./05_videoabstract3.pdf>]
+<06_ELC2016-PerkinsEtAl-Abstract-FINAL.pdf, id=246, page=1, 614.295pt x 794.97p
+t>
+File: 06_ELC2016-PerkinsEtAl-Abstract-FINAL.pdf Graphic file (type pdf)
+ <use 06_ELC2016-PerkinsEtAl-Abstract-FINAL.pdf, page 1>
+File: 06_ELC2016-PerkinsEtAl-Abstract-FINAL.pdf Graphic file (type pdf)
+
+<use 06_ELC2016-PerkinsEtAl-Abstract-FINAL.pdf, page 1>
+File: 06_ELC2016-PerkinsEtAl-Abstract-FINAL.pdf Graphic file (type pdf)
+
+<use 06_ELC2016-PerkinsEtAl-Abstract-FINAL.pdf, page 1>
+File: 06_ELC2016-PerkinsEtAl-Abstract-FINAL.pdf Graphic file (type pdf)
+
+<use 06_ELC2016-PerkinsEtAl-Abstract-FINAL.pdf, page 1>
+File: 06_ELC2016-PerkinsEtAl-Abstract-FINAL.pdf Graphic file (type pdf)
+
+<use 06_ELC2016-PerkinsEtAl-Abstract-FINAL.pdf, page 1> [17 <./06_ELC2016-Perki
+nsEtAl-Abstract-FINAL.pdf>]
+<06_ELC2016-PerkinsEtAl-Abstract-FINAL.pdf, id=261, page=2, 614.295pt x 794.97p
+t>
+File: 06_ELC2016-PerkinsEtAl-Abstract-FINAL.pdf Graphic file (type pdf)
+ <use 06_ELC2016-PerkinsEtAl-Abstract-FINAL.pdf, page 2>
+File: 06_ELC2016-PerkinsEtAl-Abstract-FINAL.pdf Graphic file (type pdf)
+
+<use 06_ELC2016-PerkinsEtAl-Abstract-FINAL.pdf, page 2>
+File: 06_ELC2016-PerkinsEtAl-Abstract-FINAL.pdf Graphic file (type pdf)
+
+<use 06_ELC2016-PerkinsEtAl-Abstract-FINAL.pdf, page 2> [18 <./06_ELC2016-Perki
+nsEtAl-Abstract-FINAL.pdf>]
+<07_abstract_ELC2016_final.pdf, id=274, page=1, 614.295pt x 794.97pt>
+File: 07_abstract_ELC2016_final.pdf Graphic file (type pdf)
+
+<use 07_abstract_ELC2016_final.pdf, page 1>
+File: 07_abstract_ELC2016_final.pdf Graphic file (type pdf)
+
+<use 07_abstract_ELC2016_final.pdf, page 1>
+File: 07_abstract_ELC2016_final.pdf Graphic file (type pdf)
+
+<use 07_abstract_ELC2016_final.pdf, page 1>
+File: 07_abstract_ELC2016_final.pdf Graphic file (type pdf)
+
+<use 07_abstract_ELC2016_final.pdf, page 1>
+File: 07_abstract_ELC2016_final.pdf Graphic file (type pdf)
+
+<use 07_abstract_ELC2016_final.pdf, page 1> [19 <./07_abstract_ELC2016_final.pd
+f>] <07_abstract_ELC2016_final.pdf, id=313, page=2, 614.295pt x 794.97pt>
+File: 07_abstract_ELC2016_final.pdf Graphic file (type pdf)
+
+<use 07_abstract_ELC2016_final.pdf, page 2>
+File: 07_abstract_ELC2016_final.pdf Graphic file (type pdf)
+
+<use 07_abstract_ELC2016_final.pdf, page 2>
+File: 07_abstract_ELC2016_final.pdf Graphic file (type pdf)
+
+<use 07_abstract_ELC2016_final.pdf, page 2> [20 <./07_abstract_ELC2016_final.pd
+f>] <07_ELC2016_paper_18.pdf, id=331, page=1, 597.23125pt x 845.1575pt>
+File: 07_ELC2016_paper_18.pdf Graphic file (type pdf)
+
+<use 07_ELC2016_paper_18.pdf, page 1>
+File: 07_ELC2016_paper_18.pdf Graphic file (type pdf)
+ <use 07_ELC2016_paper_18.pdf, page 1>
+File: 07_ELC2016_paper_18.pdf Graphic file (type pdf)
+
+<use 07_ELC2016_paper_18.pdf, page 1>
+File: 07_ELC2016_paper_18.pdf Graphic file (type pdf)
+ <use 07_ELC2016_paper_18.pdf, page 1>
+File: 07_ELC2016_paper_18.pdf Graphic file (type pdf)
+
+<use 07_ELC2016_paper_18.pdf, page 1> [21 <./07_ELC2016_paper_18.pdf>]
+<07_ELC2016_paper_18.pdf, id=378, page=2, 597.23125pt x 845.1575pt>
+File: 07_ELC2016_paper_18.pdf Graphic file (type pdf)
+
+<use 07_ELC2016_paper_18.pdf, page 2>
+File: 07_ELC2016_paper_18.pdf Graphic file (type pdf)
+ <use 07_ELC2016_paper_18.pdf, page 2>
+File: 07_ELC2016_paper_18.pdf Graphic file (type pdf)
+
+<use 07_ELC2016_paper_18.pdf, page 2> [22 <./07_ELC2016_paper_18.pdf>]
+<"08_UTP_ELC2016 - final".pdf, id=392, page=1, 614.295pt x 794.97pt>
+File: "08_UTP_ELC2016 - final".pdf Graphic file (type pdf)
+
+<use "08_UTP_ELC2016 - final".pdf, page 1>
+File: "08_UTP_ELC2016 - final".pdf Graphic file (type pdf)
+
+<use "08_UTP_ELC2016 - final".pdf, page 1>
+File: "08_UTP_ELC2016 - final".pdf Graphic file (type pdf)
+
+<use "08_UTP_ELC2016 - final".pdf, page 1>
+File: "08_UTP_ELC2016 - final".pdf Graphic file (type pdf)
+
+<use "08_UTP_ELC2016 - final".pdf, page 1>
+File: "08_UTP_ELC2016 - final".pdf Graphic file (type pdf)
+
+<use "08_UTP_ELC2016 - final".pdf, page 1> [23 <./08_UTP_ELC2016 - final.pdf>]
+<"08_UTP_ELC2016 - final".pdf, id=405, page=2, 614.295pt x 794.97pt>
+File: "08_UTP_ELC2016 - final".pdf Graphic file (type pdf)
+
+<use "08_UTP_ELC2016 - final".pdf, page 2>
+File: "08_UTP_ELC2016 - final".pdf Graphic file (type pdf)
+
+<use "08_UTP_ELC2016 - final".pdf, page 2>
+File: "08_UTP_ELC2016 - final".pdf Graphic file (type pdf)
+
+<use "08_UTP_ELC2016 - final".pdf, page 2> [24 <./08_UTP_ELC2016 - final.pdf>]
+<"09_Event parsing and verb learning".pdf, id=431, page=1, 614.295pt x 794.97pt
+>
+File: "09_Event parsing and verb learning".pdf Graphic file (type pdf)
+ <use "09_Event parsing and verb learning".pdf, page 1>
+File: "09_Event parsing and verb learning".pdf Graphic file (type pdf)
+
+<use "09_Event parsing and verb learning".pdf, page 1>
+File: "09_Event parsing and verb learning".pdf Graphic file (type pdf)
+
+<use "09_Event parsing and verb learning".pdf, page 1>
+File: "09_Event parsing and verb learning".pdf Graphic file (type pdf)
+
+<use "09_Event parsing and verb learning".pdf, page 1>
+File: "09_Event parsing and verb learning".pdf Graphic file (type pdf)
+
+<use "09_Event parsing and verb learning".pdf, page 1> [25 <./09_Event parsing 
+and verb learning.pdf>]
+<"09_Event parsing and verb learning".pdf, id=469, page=2, 614.295pt x 794.97pt
+>
+File: "09_Event parsing and verb learning".pdf Graphic file (type pdf)
+ <use "09_Event parsing and verb learning".pdf, page 2>
+File: "09_Event parsing and verb learning".pdf Graphic file (type pdf)
+
+<use "09_Event parsing and verb learning".pdf, page 2>
+File: "09_Event parsing and verb learning".pdf Graphic file (type pdf)
+
+<use "09_Event parsing and verb learning".pdf, page 2> [26 <./09_Event parsing 
+and verb learning.pdf>]
+<10_FinalELCAbstract.pdf, id=482, page=1, 597.23125pt x 845.1575pt>
+File: 10_FinalELCAbstract.pdf Graphic file (type pdf)
+
+<use 10_FinalELCAbstract.pdf, page 1>
+File: 10_FinalELCAbstract.pdf Graphic file (type pdf)
+ <use 10_FinalELCAbstract.pdf, page 1>
+File: 10_FinalELCAbstract.pdf Graphic file (type pdf)
+
+<use 10_FinalELCAbstract.pdf, page 1>
+File: 10_FinalELCAbstract.pdf Graphic file (type pdf)
+ <use 10_FinalELCAbstract.pdf, page 1>
+File: 10_FinalELCAbstract.pdf Graphic file (type pdf)
+
+<use 10_FinalELCAbstract.pdf, page 1> [27 <./10_FinalELCAbstract.pdf>]
+<10_FinalELCAbstract.pdf, id=515, page=2, 597.23125pt x 845.1575pt>
+File: 10_FinalELCAbstract.pdf Graphic file (type pdf)
+
+<use 10_FinalELCAbstract.pdf, page 2>
+File: 10_FinalELCAbstract.pdf Graphic file (type pdf)
+ <use 10_FinalELCAbstract.pdf, page 2>
+File: 10_FinalELCAbstract.pdf Graphic file (type pdf)
+
+<use 10_FinalELCAbstract.pdf, page 2> [28 <./10_FinalELCAbstract.pdf>]
+<12_ELC2016_paper_53.pdf, id=561, page=1, 614.295pt x 794.97pt>
+File: 12_ELC2016_paper_53.pdf Graphic file (type pdf)
+
+<use 12_ELC2016_paper_53.pdf, page 1>
+File: 12_ELC2016_paper_53.pdf Graphic file (type pdf)
+ <use 12_ELC2016_paper_53.pdf, page 1>
+File: 12_ELC2016_paper_53.pdf Graphic file (type pdf)
+
+<use 12_ELC2016_paper_53.pdf, page 1>
+File: 12_ELC2016_paper_53.pdf Graphic file (type pdf)
+ <use 12_ELC2016_paper_53.pdf, page 1>
+File: 12_ELC2016_paper_53.pdf Graphic file (type pdf)
+
+<use 12_ELC2016_paper_53.pdf, page 1> [29 <./12_ELC2016_paper_53.pdf>]
+<12_ELC2016_paper_53.pdf, id=581, page=2, 614.295pt x 794.97pt>
+File: 12_ELC2016_paper_53.pdf Graphic file (type pdf)
+
+<use 12_ELC2016_paper_53.pdf, page 2>
+File: 12_ELC2016_paper_53.pdf Graphic file (type pdf)
+ <use 12_ELC2016_paper_53.pdf, page 2>
+File: 12_ELC2016_paper_53.pdf Graphic file (type pdf)
+
+<use 12_ELC2016_paper_53.pdf, page 2> [30 <./12_ELC2016_paper_53.pdf>]
+<13_ELC2016_paper_13.pdf, id=588, page=1, 614.295pt x 794.97pt>
+File: 13_ELC2016_paper_13.pdf Graphic file (type pdf)
+
+<use 13_ELC2016_paper_13.pdf, page 1>
+File: 13_ELC2016_paper_13.pdf Graphic file (type pdf)
+ <use 13_ELC2016_paper_13.pdf, page 1>
+File: 13_ELC2016_paper_13.pdf Graphic file (type pdf)
+
+<use 13_ELC2016_paper_13.pdf, page 1>
+File: 13_ELC2016_paper_13.pdf Graphic file (type pdf)
+ <use 13_ELC2016_paper_13.pdf, page 1>
+File: 13_ELC2016_paper_13.pdf Graphic file (type pdf)
+
+<use 13_ELC2016_paper_13.pdf, page 1> [31 <./13_ELC2016_paper_13.pdf>]
+<13_ELC2016_paper_13.pdf, id=622, page=2, 614.295pt x 794.97pt>
+File: 13_ELC2016_paper_13.pdf Graphic file (type pdf)
+
+<use 13_ELC2016_paper_13.pdf, page 2>
+File: 13_ELC2016_paper_13.pdf Graphic file (type pdf)
+ <use 13_ELC2016_paper_13.pdf, page 2>
+File: 13_ELC2016_paper_13.pdf Graphic file (type pdf)
+
+<use 13_ELC2016_paper_13.pdf, page 2> [32 <./13_ELC2016_paper_13.pdf>]
+<14_Kravtchenko_Demberg_CUNY_2016_final_abstract.pdf, id=646, page=1, 614.295pt
+ x 794.97pt>
+File: 14_Kravtchenko_Demberg_CUNY_2016_final_abstract.pdf Graphic file (type pd
+f)
+ <use 14_Kravtchenko_Demberg_CUNY_2016_final_abstract.pdf, page 1>
+File: 14_Kravtchenko_Demberg_CUNY_2016_final_abstract.pdf Graphic file (type pd
+f)
+
+<use 14_Kravtchenko_Demberg_CUNY_2016_final_abstract.pdf, page 1>
+File: 14_Kravtchenko_Demberg_CUNY_2016_final_abstract.pdf Graphic file (type pd
+f)
+
+<use 14_Kravtchenko_Demberg_CUNY_2016_final_abstract.pdf, page 1>
+File: 14_Kravtchenko_Demberg_CUNY_2016_final_abstract.pdf Graphic file (type pd
+f)
+
+<use 14_Kravtchenko_Demberg_CUNY_2016_final_abstract.pdf, page 1>
+File: 14_Kravtchenko_Demberg_CUNY_2016_final_abstract.pdf Graphic file (type pd
+f)
+
+<use 14_Kravtchenko_Demberg_CUNY_2016_final_abstract.pdf, page 1> [33 <./14_Kra
+vtchenko_Demberg_CUNY_2016_final_abstract.pdf>]
+<14_Kravtchenko_Demberg_CUNY_2016_final_abstract.pdf, id=692, page=2, 614.295pt
+ x 794.97pt>
+File: 14_Kravtchenko_Demberg_CUNY_2016_final_abstract.pdf Graphic file (type pd
+f)
+ <use 14_Kravtchenko_Demberg_CUNY_2016_final_abstract.pdf, page 2>
+File: 14_Kravtchenko_Demberg_CUNY_2016_final_abstract.pdf Graphic file (type pd
+f)
+
+<use 14_Kravtchenko_Demberg_CUNY_2016_final_abstract.pdf, page 2>
+File: 14_Kravtchenko_Demberg_CUNY_2016_final_abstract.pdf Graphic file (type pd
+f)
+
+<use 14_Kravtchenko_Demberg_CUNY_2016_final_abstract.pdf, page 2> [34 <./14_Kra
+vtchenko_Demberg_CUNY_2016_final_abstract.pdf>]
+<15_Marvel_Koenig_ELC_2016_abstract.pdf, id=700, page=1, 614.295pt x 794.97pt>
+File: 15_Marvel_Koenig_ELC_2016_abstract.pdf Graphic file (type pdf)
+
+<use 15_Marvel_Koenig_ELC_2016_abstract.pdf, page 1>
+File: 15_Marvel_Koenig_ELC_2016_abstract.pdf Graphic file (type pdf)
+
+<use 15_Marvel_Koenig_ELC_2016_abstract.pdf, page 1>
+File: 15_Marvel_Koenig_ELC_2016_abstract.pdf Graphic file (type pdf)
+
+<use 15_Marvel_Koenig_ELC_2016_abstract.pdf, page 1>
+File: 15_Marvel_Koenig_ELC_2016_abstract.pdf Graphic file (type pdf)
+
+<use 15_Marvel_Koenig_ELC_2016_abstract.pdf, page 1>
+File: 15_Marvel_Koenig_ELC_2016_abstract.pdf Graphic file (type pdf)
+
+<use 15_Marvel_Koenig_ELC_2016_abstract.pdf, page 1> [35 <./15_Marvel_Koenig_EL
+C_2016_abstract.pdf>]
+<15_Marvel_Koenig_ELC_2016_abstract.pdf, id=723, page=2, 614.295pt x 794.97pt>
+File: 15_Marvel_Koenig_ELC_2016_abstract.pdf Graphic file (type pdf)
+
+<use 15_Marvel_Koenig_ELC_2016_abstract.pdf, page 2>
+File: 15_Marvel_Koenig_ELC_2016_abstract.pdf Graphic file (type pdf)
+
+<use 15_Marvel_Koenig_ELC_2016_abstract.pdf, page 2>
+File: 15_Marvel_Koenig_ELC_2016_abstract.pdf Graphic file (type pdf)
+
+<use 15_Marvel_Koenig_ELC_2016_abstract.pdf, page 2> [36 <./15_Marvel_Koenig_EL
+C_2016_abstract.pdf>]
+<16_montero-melis_what-you-say_final_160205.pdf, id=737, page=1, 614.295pt x 79
+4.97pt>
+File: 16_montero-melis_what-you-say_final_160205.pdf Graphic file (type pdf)
+ <use 16_montero-melis_what-you-say_final_160205.pdf, page 1>
+File: 16_montero-melis_what-you-say_final_160205.pdf Graphic file (type pdf)
+
+<use 16_montero-melis_what-you-say_final_160205.pdf, page 1>
+File: 16_montero-melis_what-you-say_final_160205.pdf Graphic file (type pdf)
+
+<use 16_montero-melis_what-you-say_final_160205.pdf, page 1>
+File: 16_montero-melis_what-you-say_final_160205.pdf Graphic file (type pdf)
+
+<use 16_montero-melis_what-you-say_final_160205.pdf, page 1>
+File: 16_montero-melis_what-you-say_final_160205.pdf Graphic file (type pdf)
+
+<use 16_montero-melis_what-you-say_final_160205.pdf, page 1> [37 <./16_montero-
+melis_what-you-say_final_160205.pdf>]
+<16_montero-melis_what-you-say_final_160205.pdf, id=771, page=2, 614.295pt x 79
+4.97pt>
+File: 16_montero-melis_what-you-say_final_160205.pdf Graphic file (type pdf)
+ <use 16_montero-melis_what-you-say_final_160205.pdf, page 2>
+File: 16_montero-melis_what-you-say_final_160205.pdf Graphic file (type pdf)
+
+<use 16_montero-melis_what-you-say_final_160205.pdf, page 2>
+File: 16_montero-melis_what-you-say_final_160205.pdf Graphic file (type pdf)
+
+<use 16_montero-melis_what-you-say_final_160205.pdf, page 2> [38 <./16_montero-
+melis_what-you-say_final_160205.pdf>]
+<"17_Potapova Boroditsky Events in Language and Cognition Formatted".pdf, id=78
+2, page=1, 614.295pt x 794.97pt>
+File: "17_Potapova Boroditsky Events in Language and Cognition Formatted".pdf G
+raphic file (type pdf)
+
+<use "17_Potapova Boroditsky Events in Language and Cognition Formatted".pdf, p
+age 1>
+File: "17_Potapova Boroditsky Events in Language and Cognition Formatted".pdf G
+raphic file (type pdf)
+
+<use "17_Potapova Boroditsky Events in Language and Cognition Formatted".pdf, p
+age 1>
+File: "17_Potapova Boroditsky Events in Language and Cognition Formatted".pdf G
+raphic file (type pdf)
+
+<use "17_Potapova Boroditsky Events in Language and Cognition Formatted".pdf, p
+age 1>
+File: "17_Potapova Boroditsky Events in Language and Cognition Formatted".pdf G
+raphic file (type pdf)
+
+<use "17_Potapova Boroditsky Events in Language and Cognition Formatted".pdf, p
+age 1>
+File: "17_Potapova Boroditsky Events in Language and Cognition Formatted".pdf G
+raphic file (type pdf)
+
+<use "17_Potapova Boroditsky Events in Language and Cognition Formatted".pdf, p
+age 1> [39 <./17_Potapova Boroditsky Events in Language and Cognition Formatted
+.pdf>]
+<"17_Potapova Boroditsky Events in Language and Cognition Formatted".pdf, id=82
+4, page=2, 614.295pt x 794.97pt>
+File: "17_Potapova Boroditsky Events in Language and Cognition Formatted".pdf G
+raphic file (type pdf)
+
+<use "17_Potapova Boroditsky Events in Language and Cognition Formatted".pdf, p
+age 2>
+File: "17_Potapova Boroditsky Events in Language and Cognition Formatted".pdf G
+raphic file (type pdf)
+
+<use "17_Potapova Boroditsky Events in Language and Cognition Formatted".pdf, p
+age 2>
+File: "17_Potapova Boroditsky Events in Language and Cognition Formatted".pdf G
+raphic file (type pdf)
+
+<use "17_Potapova Boroditsky Events in Language and Cognition Formatted".pdf, p
+age 2> [40 <./17_Potapova Boroditsky Events in Language and Cognition Formatted
+.pdf>] <18_ELC2016_ER_revised.pdf, id=836, page=1, 614.295pt x 794.97pt>
+File: 18_ELC2016_ER_revised.pdf Graphic file (type pdf)
+
+<use 18_ELC2016_ER_revised.pdf, page 1>
+File: 18_ELC2016_ER_revised.pdf Graphic file (type pdf)
+
+<use 18_ELC2016_ER_revised.pdf, page 1>
+File: 18_ELC2016_ER_revised.pdf Graphic file (type pdf)
+
+<use 18_ELC2016_ER_revised.pdf, page 1>
+File: 18_ELC2016_ER_revised.pdf Graphic file (type pdf)
+
+<use 18_ELC2016_ER_revised.pdf, page 1>
+File: 18_ELC2016_ER_revised.pdf Graphic file (type pdf)
+
+<use 18_ELC2016_ER_revised.pdf, page 1> [41 <./18_ELC2016_ER_revised.pdf>]
+<18_ELC2016_ER_revised.pdf, id=888, page=2, 614.295pt x 794.97pt>
+File: 18_ELC2016_ER_revised.pdf Graphic file (type pdf)
+
+<use 18_ELC2016_ER_revised.pdf, page 2>
+File: 18_ELC2016_ER_revised.pdf Graphic file (type pdf)
+
+<use 18_ELC2016_ER_revised.pdf, page 2>
+File: 18_ELC2016_ER_revised.pdf Graphic file (type pdf)
+
+<use 18_ELC2016_ER_revised.pdf, page 2> [42 <./18_ELC2016_ER_revised.pdf>]
+<19_ELC2016_paper_37.pdf, id=895, page=1, 614.295pt x 794.97pt>
+File: 19_ELC2016_paper_37.pdf Graphic file (type pdf)
+
+<use 19_ELC2016_paper_37.pdf, page 1>
+File: 19_ELC2016_paper_37.pdf Graphic file (type pdf)
+ <use 19_ELC2016_paper_37.pdf, page 1>
+File: 19_ELC2016_paper_37.pdf Graphic file (type pdf)
+
+<use 19_ELC2016_paper_37.pdf, page 1>
+File: 19_ELC2016_paper_37.pdf Graphic file (type pdf)
+ <use 19_ELC2016_paper_37.pdf, page 1>
+File: 19_ELC2016_paper_37.pdf Graphic file (type pdf)
+
+<use 19_ELC2016_paper_37.pdf, page 1> [43 <./19_ELC2016_paper_37.pdf>]
+<19_ELC2016_paper_37.pdf, id=910, page=2, 614.295pt x 794.97pt>
+File: 19_ELC2016_paper_37.pdf Graphic file (type pdf)
+
+<use 19_ELC2016_paper_37.pdf, page 2>
+File: 19_ELC2016_paper_37.pdf Graphic file (type pdf)
+ <use 19_ELC2016_paper_37.pdf, page 2>
+File: 19_ELC2016_paper_37.pdf Graphic file (type pdf)
+
+<use 19_ELC2016_paper_37.pdf, page 2> [44 <./19_ELC2016_paper_37.pdf>]
+<20_ELC2016_paper_23.pdf, id=949, page=1, 597.23125pt x 845.1575pt>
+File: 20_ELC2016_paper_23.pdf Graphic file (type pdf)
+
+<use 20_ELC2016_paper_23.pdf, page 1>
+File: 20_ELC2016_paper_23.pdf Graphic file (type pdf)
+ <use 20_ELC2016_paper_23.pdf, page 1>
+File: 20_ELC2016_paper_23.pdf Graphic file (type pdf)
+
+<use 20_ELC2016_paper_23.pdf, page 1>
+File: 20_ELC2016_paper_23.pdf Graphic file (type pdf)
+ <use 20_ELC2016_paper_23.pdf, page 1>
+File: 20_ELC2016_paper_23.pdf Graphic file (type pdf)
+
+<use 20_ELC2016_paper_23.pdf, page 1> [45 <./20_ELC2016_paper_23.pdf>]
+<20_ELC2016_paper_23.pdf, id=987, page=2, 597.23125pt x 845.1575pt>
+File: 20_ELC2016_paper_23.pdf Graphic file (type pdf)
+
+<use 20_ELC2016_paper_23.pdf, page 2>
+File: 20_ELC2016_paper_23.pdf Graphic file (type pdf)
+ <use 20_ELC2016_paper_23.pdf, page 2>
+File: 20_ELC2016_paper_23.pdf Graphic file (type pdf)
+
+<use 20_ELC2016_paper_23.pdf, page 2> [46 <./20_ELC2016_paper_23.pdf>]
+<22_abstract_derry_wijaya.pdf, id=993, page=1, 614.295pt x 794.97pt>
+File: 22_abstract_derry_wijaya.pdf Graphic file (type pdf)
+
+<use 22_abstract_derry_wijaya.pdf, page 1>
+File: 22_abstract_derry_wijaya.pdf Graphic file (type pdf)
+
+<use 22_abstract_derry_wijaya.pdf, page 1>
+File: 22_abstract_derry_wijaya.pdf Graphic file (type pdf)
+
+<use 22_abstract_derry_wijaya.pdf, page 1>
+File: 22_abstract_derry_wijaya.pdf Graphic file (type pdf)
+
+<use 22_abstract_derry_wijaya.pdf, page 1>
+File: 22_abstract_derry_wijaya.pdf Graphic file (type pdf)
+
+<use 22_abstract_derry_wijaya.pdf, page 1> [47 <./22_abstract_derry_wijaya.pdf>
+] <22_abstract_derry_wijaya.pdf, id=1019, page=2, 614.295pt x 794.97pt>
+File: 22_abstract_derry_wijaya.pdf Graphic file (type pdf)
+
+<use 22_abstract_derry_wijaya.pdf, page 2>
+File: 22_abstract_derry_wijaya.pdf Graphic file (type pdf)
+
+<use 22_abstract_derry_wijaya.pdf, page 2>
+File: 22_abstract_derry_wijaya.pdf Graphic file (type pdf)
+
+<use 22_abstract_derry_wijaya.pdf, page 2> [48 <./22_abstract_derry_wijaya.pdf>
+] <25_ELC2016-He&Arunachalam.pdf, id=1026, page=1, 614.295pt x 794.97pt>
+File: 25_ELC2016-He&Arunachalam.pdf Graphic file (type pdf)
+
+<use 25_ELC2016-He&Arunachalam.pdf, page 1>
+File: 25_ELC2016-He&Arunachalam.pdf Graphic file (type pdf)
+
+<use 25_ELC2016-He&Arunachalam.pdf, page 1>
+File: 25_ELC2016-He&Arunachalam.pdf Graphic file (type pdf)
+
+<use 25_ELC2016-He&Arunachalam.pdf, page 1>
+File: 25_ELC2016-He&Arunachalam.pdf Graphic file (type pdf)
+
+<use 25_ELC2016-He&Arunachalam.pdf, page 1>
+File: 25_ELC2016-He&Arunachalam.pdf Graphic file (type pdf)
+
+<use 25_ELC2016-He&Arunachalam.pdf, page 1> [49 <./25_ELC2016-He&Arunachalam.pd
+f>] <25_ELC2016-He&Arunachalam.pdf, id=1054, page=2, 614.295pt x 794.97pt>
+File: 25_ELC2016-He&Arunachalam.pdf Graphic file (type pdf)
+
+<use 25_ELC2016-He&Arunachalam.pdf, page 2>
+File: 25_ELC2016-He&Arunachalam.pdf Graphic file (type pdf)
+
+<use 25_ELC2016-He&Arunachalam.pdf, page 2>
+File: 25_ELC2016-He&Arunachalam.pdf Graphic file (type pdf)
+
+<use 25_ELC2016-He&Arunachalam.pdf, page 2> [50 <./25_ELC2016-He&Arunachalam.pd
+f>]
+<26_MassCountTime_WittenbergLevy.pdf, id=1073, page=1, 614.295pt x 794.97pt>
+File: 26_MassCountTime_WittenbergLevy.pdf Graphic file (type pdf)
+
+<use 26_MassCountTime_WittenbergLevy.pdf, page 1>
+File: 26_MassCountTime_WittenbergLevy.pdf Graphic file (type pdf)
+
+<use 26_MassCountTime_WittenbergLevy.pdf, page 1>
+File: 26_MassCountTime_WittenbergLevy.pdf Graphic file (type pdf)
+
+<use 26_MassCountTime_WittenbergLevy.pdf, page 1>
+File: 26_MassCountTime_WittenbergLevy.pdf Graphic file (type pdf)
+
+<use 26_MassCountTime_WittenbergLevy.pdf, page 1>
+File: 26_MassCountTime_WittenbergLevy.pdf Graphic file (type pdf)
+
+<use 26_MassCountTime_WittenbergLevy.pdf, page 1> [51 <./26_MassCountTime_Witte
+nbergLevy.pdf>]
+<26_MassCountTime_WittenbergLevy.pdf, id=1106, page=2, 614.295pt x 794.97pt>
+File: 26_MassCountTime_WittenbergLevy.pdf Graphic file (type pdf)
+
+<use 26_MassCountTime_WittenbergLevy.pdf, page 2>
+File: 26_MassCountTime_WittenbergLevy.pdf Graphic file (type pdf)
+
+<use 26_MassCountTime_WittenbergLevy.pdf, page 2>
+File: 26_MassCountTime_WittenbergLevy.pdf Graphic file (type pdf)
+
+<use 26_MassCountTime_WittenbergLevy.pdf, page 2> [52 <./26_MassCountTime_Witte
+nbergLevy.pdf>] (./abstracts.aux) ) 
+Here is how much of TeX's memory you used:
+ 3294 strings out of 493747
+ 52129 string characters out of 3143546
+ 117624 words of memory out of 3000000
+ 6512 multiletter control sequences out of 15000+200000
+ 7636 words of font info for 27 fonts, out of 3000000 for 9000
+ 714 hyphenation exceptions out of 8191
+ 40i,18n,46p,1041b,384s stack positions out of 5000i,500n,10000p,200000b,50000s
+</usr/local/texlive/2010/texmf-dist/fonts/ty
+pe1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2010/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2010/texmf-dist/fonts/type
+1/public/amsfonts/cm/cmcsc10.pfb></usr/local/texlive/2010/texmf-dist/fonts/type
+1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2010/texmf-dist/fonts/type1
+/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2010/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2010/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmr12.pfb></usr/local/texlive/2010/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmr17.pfb></usr/local/texlive/2010/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmsy9.pfb></usr/local/texlive/2010/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmti10.pfb></usr/local/texlive/2010/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmti12.pfb></usr/local/texlive/2010/texmf-dist/fonts/type1/urw/helvet
+ic/uhvb8a.pfb></usr/local/texlive/2010/texmf-dist/fonts/type1/urw/helvetic/uhvr
+8a.pfb></usr/local/texlive/2010/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb
+>
+Output written on abstracts.pdf (53 pages, 3864462 bytes).
+PDF statistics:
+ 1215 PDF objects out of 1440 (max. 8388607)
+ 818 compressed objects within 9 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 481 words of extra memory for PDF output out of 10000 (max. 10000000)
+
